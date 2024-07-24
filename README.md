@@ -19,7 +19,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` studying in New York City
+- :school: I am a `Junior` college studying in New York City
 - :student: I’m currently learning `Computer Engineering` and `Computer Science` with a passion for `Game Development`
 - :nerd_face: Always `learning new things`.
 - 💻 I have taught myself languages like `HTML`, `CSS`, and `Lua`.
