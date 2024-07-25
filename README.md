@@ -151,8 +151,8 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/PlanetHoshii/PlanetHoshii.github.io">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PlanetHoshii&repo=PlanetHoshii.github.io&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/PlanetHoshii/PlanetHoshii-site">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PlanetHoshii&repo=PlanetHoshii-site&theme=tokyonight" alt="GitHub Stats" />
 	<!--<a href="https://github.com/PlanetHoshii/PlanetHoshii.github.io">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PlanetHoshii&repo=PlanetHoshii.github.io&theme=tokyonight" alt="GitHub Stats" />-->
   </p>
