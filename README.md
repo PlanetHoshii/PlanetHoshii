@@ -151,10 +151,18 @@
 	
 <div>
   <p align="center">
-	None to note yet :)
-    	</a>
+	<a href="https://github.com/PlanetHoshii/PlanetHoshii.github.io">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PlanetHoshii&repo=PlanetHoshii.github.io&theme=tokyonight" alt="GitHub Stats" />
+	<!--<a href="https://github.com/PlanetHoshii/PlanetHoshii.github.io">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PlanetHoshii&repo=PlanetHoshii.github.io&theme=tokyonight" alt="GitHub Stats" />-->
   </p>
 </div>
 </details>
 
 </br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/PlanetHoshii/PlanetHoshii/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
