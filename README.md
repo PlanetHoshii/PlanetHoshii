@@ -159,10 +159,10 @@
 </div>
 </details>
 
-</br></br>
+<!--</br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/PlanetHoshii/PlanetHoshii/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+</p>-->
