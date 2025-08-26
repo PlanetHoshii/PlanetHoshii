@@ -142,7 +142,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=PlanetHoshii)](https://github.com/ryo-ma/github-profile-trophy)" /></a> </p>	
+<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=PlanetHoshii)](https://github.com/ryo-ma/github-profile-trophy)</p>	
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
